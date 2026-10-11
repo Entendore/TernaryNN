@@ -1,0 +1,3 @@
+# TernaryNN
+
+Project repository.
